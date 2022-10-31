@@ -1,4 +1,4 @@
-package ru.netology.koylubaevaem;
+package ru.netology.koylubaevaem.adapter;
 
 public interface Ints {
 
